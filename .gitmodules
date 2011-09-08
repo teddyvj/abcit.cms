@@ -25,3 +25,27 @@
 [submodule "kohana/auth"]
 	path = kohana/auth
 	url = git://github.com/kohana/auth.git
+[submodule "kohana/KOstache"]
+	path = kohana/KOstache
+	url = git://github.com/zombor/KOstache.git
+[submodule "kohana/sprig"]
+	path = kohana/sprig
+	url = git://github.com/sittercity/sprig.git
+[submodule "kohana/email"]
+	path = kohana/email
+	url = git://github.com/shadowhand/email.git
+[submodule "kohana/bonafide"]
+	path = kohana/bonafide
+	url = git://github.com/shadowhand/bonafide.git
+[submodule "kohana/purifier"]
+	path = kohana/purifier
+	url = git://github.com/shadowhand/purifier.git
+[submodule "kohana/uuid"]
+	path = kohana/uuid
+	url = git://github.com/shadowhand/uuid.git
+[submodule "kohana/sprig-mptt"]
+	path = kohana/sprig-mptt
+	url = git://github.com/banks/sprig-mptt.git
+[submodule "kohana/SprigGen"]
+	path = kohana/SprigGen
+	url = git://github.com/alextucker/SprigGen.git
