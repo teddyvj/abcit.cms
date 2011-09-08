@@ -1,0 +1,27 @@
+[submodule "kohana/core"]
+	path = kohana/core
+	url = git://github.com/kohana/core.git
+[submodule "kohana/userguide"]
+	path = kohana/userguide
+	url = git://github.com/kohana/userguide.git
+[submodule "kohana/image"]
+	path = kohana/image
+	url = git://github.com/kohana/image.git
+[submodule "kohana/oauth"]
+	path = kohana/oauth
+	url = git://github.com/kohana/oauth.git
+[submodule "kohana/cache"]
+	path = kohana/cache
+	url = git://github.com/kohana/cache.git
+[submodule "kohana/pagination"]
+	path = kohana/pagination
+	url = git://github.com/kohana/pagination.git
+[submodule "kohana/database"]
+	path = kohana/database
+	url = git://github.com/kohana/database.git
+[submodule "kohana/codebench"]
+	path = kohana/codebench
+	url = git://github.com/kohana/codebench.git
+[submodule "kohana/auth"]
+	path = kohana/auth
+	url = git://github.com/kohana/auth.git
